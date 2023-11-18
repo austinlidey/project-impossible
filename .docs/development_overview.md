@@ -1,6 +1,3 @@
-# Pawn
-A Pawn is the object representation of any and all players in the game. It serves as the base class that can be decorated with different components/systems that are necessary for its purpose.
-
 ## Current Systems
 ### Definition:
 `system` is any object that is responsible for: 
